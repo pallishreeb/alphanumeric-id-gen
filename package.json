@@ -1,0 +1,17 @@
+{
+    "name": "alphanumeric-id-gen",
+    "version": "1.0.1",
+    "main": "index.js",
+    "description": "A simple alphanumeric ID generator for developers",
+    "author": "Pallishree Behera",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/pallishreeb/alphanumeric-id-gen"
+    },
+    "license": "MIT",
+    "keywords": ["id", "generator", "autoincrement", "alphanumeric"],
+    "scripts": {
+      "test": "echo 'Write tests for your package'"
+    }
+  }
+  
