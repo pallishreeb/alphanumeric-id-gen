@@ -1,4 +1,4 @@
-Alphanumeric ID Generator
+<span style="color:blue">Alphanumeric ID Generator</span>.
 
 A simple and customizable alphanumeric ID generator for developers. This package is ideal for generating unique IDs with a prefix and numeric part that auto-increments. It is especially useful for database systems and distributed applications.
 
@@ -13,13 +13,15 @@ Lightweight and flexible.
 Installation
 
 Install the package via npm:
+```
 npm install alphanumeric-id-gen
-
+```
 
 Usage
 Basic Example:
+```
 const idGenerator = require('alphanumeric-id-gen');
-
+```
 // Initialize the generator with:
 // Prefix: 'PB', Numeric Length: 5, Starting Increment: 1
 ```
